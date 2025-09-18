@@ -1,15 +1,14 @@
-<h1 align="center">👋 Olá, eu sou o Vitório Augusto Cavalheiro</h1>
+<h1 align="center">Hello, I'm Vitório Augusto Cavalheiro</h1>
 
 <h3 align="center">Data Engineer | Solution Architect | Full Stack Developer</h3>
 
 ---
+### 💻 About Me
+I'm passionate about creating solutions that transform ideas into functional and **innovative digital experiences**.
+I currently work at a software house as a full-stack developer, working with **backend**, **frontend**, and **systems integrations**.
+Before that, I had the opportunity to work at **IBM**, where I gained experience in **scalable projects** and **agile methodologies.**
 
-### 💻 Sobre mim
-Sou apaixonado por criar soluções que transformam ideias em **experiências digitais funcionais e inovadoras**.  
-Atualmente, atuo em uma **software house** como **desenvolvedor full stack**, trabalhando com **backend**, **frontend** e **integrações de sistemas**.  
-Antes disso, tive a oportunidade de trabalhar na **IBM**, onde adquiri experiência em **projetos escaláveis** e **metodologias ágeis**.
-
-Meu objetivo é seguir crescendo profissionalmente como **Data Engineer** e **Solution Architect**, sem abandonar minha base como **Full Stack Developer**.
+My goal is to continue growing professionally as a **Data Engineer** and **Solution Architect**, without abandoning my background as a **Full-Stack Developer**.
 
 ---
 
@@ -34,20 +33,20 @@ Meu objetivo é seguir crescendo profissionalmente como **Data Engineer** e **So
 
 ---
 
-## 🌱 Atualmente estudando
-- **Data Engineering** com foco em **pipelines de dados** e **big data**
-- **Arquitetura de Soluções** para sistemas escaláveis
-- Integrações avançadas com **Google APIs** (Google Calendar, Google Forms)
-- **Containers e DevOps** usando Docker e Podman
+## 🌱 Currently studying
+- **Data Engineering** with a focus on **data pipelines** and **big data**
+- **Solutions Architecture** for scalable systems
+- Advanced integrations with **Google APIs** (Google Calendar, Google Forms)
+- **Containers and DevOps** using Docker and Podman
 
 ---
 
-## 🏢 Experiência
-- **Software House** – Desenvolvedor Full Stack *(Atual)*  
-  Trabalho em **projetos web** e **integrações de sistemas**, focando em soluções ágeis e escaláveis.
+## 🏢 Experience
+- **DMX** – Full Stack Developer *(Current)*
+I work on **web projects** and **system integrations**, focusing on agile and scalable solutions.
 
-- **IBM** – Desenvolvedor Full Stack *(Experiência Anterior)*  
-  Atuação em times ágeis, desenvolvendo funcionalidades complexas e trabalhando com tecnologias modernas.
+- **IBM** – Full Stack Developer *(Previous Experience)*
+Working on agile teams, developing complex features and working with modern technologies.
 
 ---
 
@@ -82,7 +81,7 @@ Meu objetivo é seguir crescendo profissionalmente como **Data Engineer** e **So
 
 ---
 
-## ✨ Curiosidades sobre mim
-- Gosto de **cozinhar** e explorar **novos lugares**, principalmente trilhas e viagens ao ar livre 🏞️  
-- Fã de momentos tranquilos assistindo **bons filmes** 🍿  
-- Sempre em busca de **novos desafios e aprendizados** 🚀  
+## ✨ Fun Facts About Me
+- I enjoy **cooking** and exploring **new places**, especially hiking and outdoor trips 🏞️
+- I'm a fan of quiet moments watching **good movies** 🍿
+- I'm always looking for **new challenges and learning** 🚀
